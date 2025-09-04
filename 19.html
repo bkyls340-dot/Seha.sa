@@ -1,0 +1,131 @@
+ 
+<!DOCTYPE html><html lang="ar" dir="rtl"><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8"><link rel="stylesheet" type="text/css" href="cid:css-a6255b5f-aac3-4d62-af80-e8bd50cdae21@mhtml.blink" /><link rel="stylesheet" type="text/css" href="cid:css-e2227360-5a97-44e0-89ea-cd3bf15d76ab@mhtml.blink" /><link rel="stylesheet" type="text/css" href="cid:css-7a1a75c2-b581-48b1-8279-4a2ae41d9d14@mhtml.blink" /><link rel="stylesheet" type="text/css" href="cid:css-1be529b3-fc14-4db4-b4a9-ac0773fb6b82@mhtml.blink" /><meta http-equiv="origin-trial" content="A/kargTFyk8MR5ueravczef/wIlTkbVk1qXQesp39nV+xNECPdLBVeYffxrM8TmZT6RArWGQVCJ0LRivD7glcAUAAACQeyJvcmlnaW4iOiJodHRwczovL2dvb2dsZS5jb206NDQzIiwiZmVhdHVyZSI6IkRpc2FibGVUaGlyZFBhcnR5U3RvcmFnZVBhcnRpdGlvbmluZzIiLCJleHBpcnkiOjE3NDIzNDIzOTksImlzU3ViZG9tYWluIjp0cnVlLCJpc1RoaXJkUGFydHkiOnRydWV9"><link rel="icon" href="https://www.seha.sa/favicon.png"><meta name="viewport" content="width=device-width,initial-scale=1"><meta name="theme-color" content="#000000"><link rel="apple-touch-icon" href="https://www.seha.sa/logo.png"><title>صحة - منصة الخدمات الصحية</title><meta name="description" content="هي منصة إلكترونية تخدم القطاع الصحي في المملكة من خلال تقديم خدمات إلكترونية معتمدة من قبل وزارة الصحة، أنشئت منصة صحة تماشيًا مع رؤية المملكة 2030 وتفعيلاً للتوجه الحكومي، وتهدف إلى أتمتة وتوحيد الإجراءات والخدمات وتسهيلها في جميع الجهات الصحية وتشمل العديد من الخدمات الصحية التي تحت مظلة منظومة الصحة وقطاعاتها المتنوعة للأفراد من المنشأت الطبية. "><link rel="manifest" href="https://www.seha.sa/manifest.json"><link href="https://fonts.googleapis.com/css2?family=Cairo:wght@400;600;700;900&amp;display=swap" rel="stylesheet"><link href="https://saeha.se/assets/css/main.d8269fcd.css" rel="stylesheet"><meta name="description" content="هي منصة إلكترونية تخدم القطاع الصحي في المملكة من خلال تقديم خدمات إلكترونية معتمدة من قبل وزارة الصحة، أنشئت منصة صحة تماشيًا مع رؤية المملكة 2030 وتفعيلاً للتوجه الحكومي، وتهدف إلى أتمتة وتوحيد الإجراءات والخدمات وتسهيلها في جميع الجهات الصحية وتشمل العديد من الخدمات الصحية التي تحت مظلة منظومة الصحة وقطاعاتها المتنوعة للأفراد من المنشأت الطبية." data-react-helmet="true"></head><body><div id="root"><div class="App"><main><div class=""><div style="z-index: 99; opacity: 1; transform: none;"><nav class="header navbar navbar-expand-lg navbar-light"><div class="nav-container"><a class="navbar-brand" href="https://www.seha.sa/ui#/"><img src="https://saeha.se/assets/static/media/seha_logo.4dde29e5c4f38890ccf9787220bcc5be.svg" alt="logo" class="logo"></a><div class="d-lg-none d-xl-none justify-content-end menu"><button aria-controls="responsive-navbar-nav" type="button" aria-label="Toggle navigation" class="d-inline-flex menu-img navbar-toggler collapsed"><span class="navbar-toggler-icon"></span></button></div><div class="white  justify-content-between navbar-collapse collapse" id="responsive-navbar-nav"><div class="justify-content-between navbar-nav"><a data-rr-ui-event-key="1" class="link nav-link" href="https://www.seha.sa/ui#/services">الخدمات</a><a data-rr-ui-event-key="2" class="link nav-link" href="https://www.seha.sa/ui#/inquiries">الاستعلامات</a></div><div class="justify-content-between navbar-nav"><a data-rr-ui-event-key="4" class="nav-link" href="https://www.seha.sa/ui#/iamredirection/1"><p>إنشاء حساب</p></a><a data-rr-ui-event-key="5" class="login nav-link" href="https://www.seha.sa/ui#/account/login"><img src="https://www.seha.sa/static/media/user_o.7825677e64284b06f60f7c30082fed56.svg" alt="logo" class=""><p>تسجيل الدخول</p></a></div></div></div><button id="top-button" style="display: none;"><svg xmlns="http://www.w3.org/2000/svg" width="14.4" height="18.503" viewBox="0 0 14.4 18.503"><path id="arrow-up-c" d="M8.862,11.37,14.381,6.1a1.7,1.7,0,0,1,2.355,0l5.54,5.272a1.555,1.555,0,0,1,0,2.271,1.738,1.738,0,0,1-2.376,0l-2.649-2.528V22.519a1.684,1.684,0,0,1-3.364,0V11.113l-2.649,2.534a1.738,1.738,0,0,1-2.376,0,1.561,1.561,0,0,1,0-2.276Z" transform="translate(-8.369 -5.625)" fill="#00a1c9">
+  
+</path></svg></button></nav></div>
+<div class="inner-page inquiries-container"><h1 class="heading">الإجازات المرضية</h1><p class="sub-heading">خدمة الاستعلام عن الإجازات المرضية تتيح لك الاستعلام عن حالة طلبك للإجازة ويمكنك طباعتها عن طريق تطبيق صحتي</p>
+         <style>
+           #toggleButton{
+             display: block;
+             margin: 0 auto;
+           }
+           #submit{
+             display: block ;
+             margin: 0 auto;
+             
+           }
+         </style>
+   <script>
+    document.querySelector('.navbar-toggler').addEventListener('click', function() {
+    var nav = document.getElementById('responsive-navbar-nav');
+    nav.classList.toggle('collapse');
+  });
+
+  // لجعل زر الرجوع إلى الأعلى يظهر عند التمرير لأسفل الصفحة
+  window.onscroll = function() {
+    var topButton = document.getElementById('top-button');
+    if (document.body.scrollTop > 20 || document.documentElement.scrollTop > 20) {
+      topButton.style.display = "block";
+    } else {
+      topButton.style.display = "none";
+    }
+  };
+
+  // لإرجاع الصفحة إلى الأعلى عند الضغط على زر الرجوع إلى الأعلى
+  document.getElementById('top-button').addEventListener('click', function() {
+    document.body.scrollTop = 0; // For Safari
+    document.documentElement.scrollTop = 0; // For Chrome, Firefox, IE and Opera
+  }); 
+     
+   </script>
+   <script>
+  document.addEventListener("DOMContentLoaded", function() {
+  // تحديد العناصر
+  const submitButton = document.getElementById('submit');
+  const toggleButton = document.getElementById('toggleButton');
+  const normalizedServiceCodeInput = document.getElementById('normalizedservicecode');
+  const patientIdInput = document.getElementById('patientid');
+  const resultsDiv = document.getElementById('resultsDiv');
+  const alertError = document.getElementById('alerterror');
+  const alertError2 = document.getElementById('alerterror2');
+  
+  // وظيفة للتحقق من الإدخالات وعرض النتائج أو خطأ
+  function handleInquiry() {
+  const serviceCode = normalizedServiceCodeInput.value.trim();
+  const patientId = patientIdInput.value.trim();
+  
+  if (serviceCode && patientId) {
+  // هنا يمكنك إضافة كود طلب API للحصول على النتائج
+  // مثال وهمي:
+  if (serviceCode === "PSL25080355018" && patientId === "1083912921") {
+  // عرض النتائج
+  resultsDiv.style.display = 'block';
+  alertError.style.display = 'none';
+  alertError2.style.display = 'none';
+  } else {
+  // عرض خطأ في الاستعلام
+  alertError2.style.display = 'block';
+  resultsDiv.style.display = 'none';
+  alertError.style.display = 'none';
+  }
+  } else {
+  // عرض خطأ لعدم وجود نتائج
+  alertError.style.display = 'block';
+  alertError2.style.display = 'none';
+  resultsDiv.style.display = 'none';
+  }
+  }
+  
+  // ربط الوظيفة بزر "استعلام"
+  submitButton.addEventListener('click', handleInquiry);
+  
+  // وظيفة لإعادة تعيين النموذج
+  function handleToggle() {
+  normalizedServiceCodeInput.value = '';
+  patientIdInput.value = '';
+  resultsDiv.style.display = 'none';
+  alertError.style.display = 'none';
+  alertError2.style.display = 'none';
+  }
+  
+  // ربط الوظيفة بزر "استعلام جديد"
+  toggleButton.addEventListener('click', handleToggle);
+  });
+  </script>
+      <div class="row justify-content-center mt-1"><div class="col-md-5 p-4">
+  <div class="form-group"><input class="form-control" type="text" maxlength="14" placeholder="رمز الخدمة" id="normalizedservicecode" value=""></div>
+  <div class="form-group"><label></label><input class="form-control" type="text" maxlength="12" pattern="d*" placeholder="رقم الهوية / الإقامة" id="patientid" value="">
+  </div><div class="results-inquiery row" id="resultsDiv" style="display: none;"><div class="col-md-6">
+    <span>الاسم:</span>
+     <h6 id="patientname">
+ هاجر علي سعودي حدادي 
+ 
+
+  
+    </h6></div><div class="col-md-6">
+      <span>تاريخ إصدار تقرير الإجازة:</span>
+    <h6 id="sickleavedate">
+        04-09-2025
+    </h6></div>
+    <div class="col-md-6">
+      <span>تبدأ من:</span>
+      <h6 id="from1">
+        04-09-2025
+      </h6></div><div class="col-md-6">
+        <span>وحتى:</span><h6 id="to1">
+        04-09-2025
+      </h6></div>
+      <div class="col-md-6">
+        <span>المدة بالأيام:</span>        
+        <h6 id="duration">1</h6>
+        </div><div class="col-md-6">
+          <span>اسم الطبيب:</span><h6 id="doctorname">
+احمد عبدالمحسن سليمان 
+          </h6></div><div class="col-md-6">
+            <span>المسمى الوظيفي:</span><h6 id="jobtitle">
+   نائب
+            </h6></div>
+          </div><div class="alert alert-danger mt-2" id="alerterror" style="display: none;">لا يوجد نتائج</div><div class="alert alert-danger mt-2" id="alerterror2" style="display: none;">خطأ في الاستعلام</div><button class="btn btn-primary mt-3" id="submit">استعلام</button><button class="btn btn-primary mt-3" id="toggleButton" style="display: none;">استعلام جديد</button></div>
+<div class="col-md-12 text-center"><a class="btn btn-primary mb-3" href="https://www.seha.sa/#/inquiries">رجوع للاستعلامات</a></div></div></div> 
+<div class="footer-container container-fluid"><div class="footer"><div class="about section"><img src="https://saeha.se/assets/static/media/logo-white-CKxLEirV.svg" alt="Logo"><p class="about">منصة صحة تخدم جميع المنشأت الطبية من خلال تقديم الخدمات الصحية إلكترونياً لجميع المنشأت الطبية وتسعى إلى توحيد وأتمتة الاجراءات والخدمات بما في دوره رفع جودة الاداء وخفض التكاليف.</p></div><div class="links section" style="align-items: center;"><h3 class="heading">القائمة الرئيسية</h3><ul class="links-wrapepr"><li class="inquiry-li"><a class="nav-link" href="#/services">الخدمات</a></li><li class="inquiry-li"><a class="nav-link" href="#/inquiries">الاستعلامات</a></li><li class="inquiry-li"><a class="nav-link" href="#/faq">الأسئلة الشائعة</a></li><li class="inquiry-li" style="border-bottom: none;"><a class="nav-link" href="#/ContactUs">تواصل معنا</a></li></ul></div><div class="section d-none"><h3 class="heading d-none">النشرة البريدية</h3><p class="about d-none">الاشتراك في الرسائل الإخبارية</p><form class="d-none"><div class="input-wrapper"><input placeholder="البريد الالكتروني" type="email" class="form-control"><button class="button-small">إشترك</button></div></form></div><div class="contact section"><h3 class="heading">تواصل معنا</h3><div class="contact-wrapper"><div class="values"><div class="details"><img alt="phone icon" src="data:image/svg+xml,%3csvg%20xmlns='http://www.w3.org/2000/svg'%20width='13.667'%20height='13.662'%20viewBox='0%200%2013.667%2013.662'%3e%3cpath%20id='phone'%20d='M15.455,17.037h-.089C5.04,16.443,3.574,7.731,3.369,5.072a1.576,1.576,0,0,1,1.45-1.7h2.9a1.051,1.051,0,0,1,.978.662L9.491,6a1.051,1.051,0,0,1-.231,1.135L8.14,8.267a4.923,4.923,0,0,0,3.983,3.993l1.14-1.13a1.051,1.051,0,0,1,1.14-.215l1.981.794a1.051,1.051,0,0,1,.647.977V15.46a1.576,1.576,0,0,1-1.576,1.576ZM4.946,4.426a.525.525,0,0,0-.525.525v.042c.242,3.111,1.792,10.467,11,10.992a.525.525,0,0,0,.557-.494V12.686L14,11.892l-1.508,1.5-.252-.032c-4.571-.573-5.191-5.144-5.191-5.191l-.032-.252L8.508,6.406,7.72,4.426Z'%20transform='translate(-3.364%20-3.375)'%20fill='%237eb7db'/%3e%3c/svg%3e"><a href="tel:920002005">920002005</a></div><div class="details"><img alt="email line" src="data:image/svg+xml,%3csvg%20xmlns='http://www.w3.org/2000/svg'%20width='13.667'%20height='10.25'%20viewBox='0%200%2013.667%2010.25'%3e%3cpath%20id='email-line'%20d='M14.812,6H2.854A.854.854,0,0,0,2,6.854V15.4a.854.854,0,0,0,.854.854H14.812a.854.854,0,0,0,.854-.854V6.854A.854.854,0,0,0,14.812,6Zm-.658,9.4H3.563L6.553,12.3l-.615-.594L2.854,14.9V7.5l5.309,5.283a.854.854,0,0,0,1.2,0l5.445-5.415v7.474L11.669,11.7l-.6.6ZM3.414,6.854H14.121L8.765,12.18Z'%20transform='translate(-2%20-6)'%20fill='%237eb7db'/%3e%3c/svg%3e"><a href="mailto:support@seha.sa">support@seha.sa</a></div><div class="details"><img alt="whatsapp" src="data:image/svg+xml,%3csvg%20width='14'%20height='15'%20viewBox='0%200%2014%2015'%20fill='none'%20xmlns='http://www.w3.org/2000/svg'%3e%3cpath%20fill-rule='evenodd'%20clip-rule='evenodd'%20d='M11.9602%202.27071C10.6442%200.953543%208.89393%200.227791%207.02923%200.227051C3.18704%200.227051%200.0599782%203.35292%200.0584405%207.19512C0.057928%208.42329%200.378928%209.62217%200.988904%2010.6789L-7.62939e-06%2014.29L3.69531%2013.321C4.71343%2013.8761%205.85977%2014.1687%207.02644%2014.1692H7.0293C10.8711%2014.1692%2013.9984%2011.0429%2014%207.20068C14.0007%205.33869%2013.2763%203.58787%2011.9602%202.27071ZM7.0293%2012.9922H7.02693C5.98731%2012.9918%204.96761%2012.7126%204.07808%2012.1849L3.86649%2012.0594L1.67367%2012.6344L2.25899%2010.4971L2.12121%2010.278C1.54125%209.35579%201.23492%208.28992%201.23538%207.19556C1.23665%204.00207%203.83576%201.40399%207.0316%201.40399C8.5791%201.40458%2010.0338%202.00783%2011.1277%203.10261C12.2216%204.19739%2012.8237%205.65261%2012.8231%207.20023C12.8217%2010.3939%2010.2227%2012.9922%207.0293%2012.9922ZM10.2073%208.65437C10.0331%208.56722%209.17681%208.14597%209.01715%208.08787C8.8575%208.02976%208.7414%208.00072%208.62527%208.17504C8.50917%208.34934%208.17537%208.74154%208.07374%208.85773C7.97216%208.97395%207.87056%208.98849%207.69638%208.90132C7.52221%208.81417%206.961%208.63032%206.29571%208.03711C5.77795%207.57544%205.42836%207.0052%205.32677%206.8309C5.22517%206.65658%205.31597%206.56233%205.40316%206.47554C5.4815%206.39752%205.57732%206.27218%205.66442%206.17049C5.75149%206.06881%205.78052%205.99618%205.83856%205.87999C5.89663%205.76378%205.86761%205.66209%205.82406%205.57494C5.78052%205.48779%205.4322%204.63075%205.28704%204.28213C5.14567%203.9426%205.00207%203.98854%204.89515%203.98322C4.79367%203.97817%204.67744%203.97709%204.56134%203.97709C4.44522%203.97709%204.25653%204.02068%204.09687%204.19498C3.93722%204.3693%203.48729%204.79055%203.48729%205.64756C3.48729%206.50458%204.11139%207.33254%204.19848%207.44875C4.28556%207.56497%205.42666%209.32371%207.17387%2010.0779C7.58943%2010.2573%207.91386%2010.3644%208.16681%2010.4447C8.58407%2010.5772%208.96377%2010.5585%209.26389%2010.5137C9.59852%2010.4637%2010.2944%2010.0925%2010.4395%209.68573C10.5847%209.279%2010.5847%208.93038%2010.5411%208.85775C10.4976%208.78513%2010.3815%208.74154%2010.2073%208.65437Z'%20fill='white'/%3e%3c/svg%3e" style="width: 16px; height: 16px; opacity: 0.5;"><a href="https://wa.me/920002005" target="_blank" rel="noreferrer">920002005</a></div><div class="timings mt-3"><span style="font-size: 12px; color: rgb(240, 243, 248);">أوقات العمل: الأحد حتى الخميس 8 ص - 11م</span></div><div class="social"><button><a href="https://www.youtube.com/channel/UCb9ZrS2YcriYqIPIHNp9wcQ"><img alt="youtube icon" src="data:image/svg+xml,%3csvg%20xmlns='http://www.w3.org/2000/svg'%20width='18'%20height='18'%20viewBox='0%200%2018%2018'%3e%3cg%20id='Group_4247'%20data-name='Group%204247'%20transform='translate(-326%20-6335)'%3e%3cpath%20id='youtube'%20d='M6.848,12.169V9.444l2.62,1.368-2.62,1.358Zm5.754-3.2a2.094,2.094,0,0,0-.386-.963,1.388,1.388,0,0,0-.972-.411c-1.357-.1-3.393-.1-3.393-.1h0s-2.036,0-3.393.1a1.388,1.388,0,0,0-.972.411,2.1,2.1,0,0,0-.386.963,14.673,14.673,0,0,0-.1,1.57v.736a14.681,14.681,0,0,0,.1,1.57,2.094,2.094,0,0,0,.386.963,1.641,1.641,0,0,0,1.07.414c.776.074,3.3.1,3.3.1s2.038,0,3.4-.1a1.387,1.387,0,0,0,.972-.411,2.1,2.1,0,0,0,.386-.963,14.681,14.681,0,0,0,.1-1.57v-.736a14.665,14.665,0,0,0-.1-1.57Z'%20transform='translate(327%206333.5)'%20fill='%23f0f3f8'%20fill-rule='evenodd'/%3e%3cg%20id='Path_8137'%20data-name='Path%208137'%20transform='translate(326%206335)'%20fill='none'%20opacity='0'%3e%3cpath%20d='M9,0A9,9,0,1,1,0,9,9,9,0,0,1,9,0Z'%20stroke='none'/%3e%3cpath%20d='M%209.000004768371582%200.4999980926513672%20C%204.313084602355957%200.4999980926513672%200.4999942779541016%204.31309700012207%200.4999942779541016%209.00003719329834%20C%200.4999942779541016%2013.68697738647461%204.313084602355957%2017.50007629394531%209.000004768371582%2017.50007629394531%20C%2013.68692493438721%2017.50007629394531%2017.50000381469727%2013.68697738647461%2017.50000381469727%209.00003719329834%20C%2017.50000381469727%204.31309700012207%2013.68692493438721%200.4999980926513672%209.000004768371582%200.4999980926513672%20M%209.000004768371582%20-1.9073486328125e-06%20C%2013.97056484222412%20-1.9073486328125e-06%2018.00000381469727%204.029457092285156%2018.00000381469727%209.00003719329834%20C%2018.00000381469727%2013.97061729431152%2013.97056484222412%2018.00007629394531%209.000004768371582%2018.00007629394531%20C%204.029444694519043%2018.00007629394531%20-5.7220458984375e-06%2013.97061729431152%20-5.7220458984375e-06%209.00003719329834%20C%20-5.7220458984375e-06%204.029457092285156%204.029444694519043%20-1.9073486328125e-06%209.000004768371582%20-1.9073486328125e-06%20Z'%20stroke='none'%20fill='%23f0f3f8'/%3e%3c/g%3e%3c/g%3e%3c/svg%3e"></a></button><button><a href="https://twitter.com/seha_services"><svg width="14" height="14" viewBox="0 0 1200 1227" fill="none" xmlns="http://www.w3.org/2000/svg"><path fill="#ffffff" d="M714.163 519.284L1160.89 0H1055.03L667.137 450.887L357.328 0H0L468.492 681.821L0 1226.37H105.866L515.491 750.218L842.672 1226.37H1200L714.137 519.284H714.163ZM569.165 687.828L521.697 619.934L144.011 79.6944H306.615L611.412 515.685L658.88 583.579L1055.08 1150.3H892.476L569.165 687.854V687.828Z"></path></svg></a></button></div></div><div class="contact"><img alt="lean logo" src="https://saeha.se/assets/static/media/lean-logo.47f1c2c4f559aab0fc8472beba56bb76.svg"><div class="spacer"></div><img alt="moh logo" src="https://saeha.se/assets/static/media/MOH-logo.3721a12f98819dbb30527088a659b864.svg"></div></div><div class="footer-note-wrapper"><p>منصة صحة معتمدة من قبل وزارة الصحة © 2025 </p><ul><li><a>سياسة الخصوصية وشروط الإستخدام</a></li><li><a class="" href="https://www.seha.sa/Content/LandingPages/UserManual.pdf">دليل الاستخدام</a></li></ul></div></div></div></div>
+</body>
+</html>
